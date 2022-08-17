@@ -1,0 +1,356 @@
+Milky Way
+Barred Spiral
+Non-Dwarf
+0 - 1 mly
+White
+None
+
+Sagittarius
+Elliptical
+Dwarf
+0 - 1 mly
+White
+Milky Way
+
+Ursa Major II
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+None
+
+Coma Berenices Dwarf
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Large Magellanic Cloud
+Magellanic Spiral
+Non-Dwarf
+0 - 1 mly
+Lavender
+Milky Way
+
+Small Magellanic Cloud
+Magellanic Spiral
+Non-Dwarf
+0 - 1 mly
+White
+Milky Way
+
+Bootes I
+Spheroidal
+Dwarf
+0 - 1 mly
+Yellow
+Milky Way
+
+Ursa Minor
+Spheroidal
+Dwarf
+0 - 1 mly
+Rainbow
+Milky Way
+
+Sculptor
+Spheroidal
+Dwarf
+0 - 1 mly
+Orange
+Milky Way
+
+Draco
+Spheroidal
+Dwarf
+0 - 1 mly
+White
+Milky Way
+
+Sextans
+Spheroidal
+Dwarf
+0 - 1 mly
+Purple
+Milky Way
+
+Ursa Major I
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Carina
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Fornax
+Elliptical
+Dwarf
+0 - 1 mly
+Blue
+Milky Way
+
+Hercules
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Canes Venatici II
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Leo IV
+Spheroidal
+Dwarf
+0 - 1 mly
+Orange
+Milky Way
+
+Leo II
+Spheroidal
+Dwarf
+0 - 1 mly
+White
+Milky Way
+
+Canes Venatici I
+Spheroidal
+Dwarf
+0 - 1 mly
+Unknown
+Milky Way
+
+Leo I
+Spheroidal
+Dwarf
+0 - 1 mly
+White
+Milky Way
+
+Leo T
+Irregular
+Dwarf
+1 - 2.5 mly
+Unknown
+Milky Way
+
+Phoenix
+Irregular
+Dwarf
+1 - 2.5 mly
+Blue
+None
+
+NGC 6822
+Irregular
+Non-Dwarf
+1 - 2.5 mly
+Blue
+None
+
+NGC 185
+Spheroidal
+Dwarf
+1 - 2.5 mly
+White
+None
+
+Andromeda II
+Spheroidal
+Dwarf
+1 - 2.5 mly
+Yellow
+Andromeda
+
+Leo A
+Irregular
+Dwarf
+1 - 2.5 mly
+Blue
+None
+
+IC 1613
+Irregular
+Dwarf
+1 - 2.5 mly
+Orange
+None
+
+Andromeda X
+Spheroidal
+Dwarf
+1 - 2.5 mly
+Orange
+Andromeda
+
+NGC 147
+Elliptical
+Dwarf
+1 - 2.5 mly
+White
+Andromeda
+
+Andromeda III
+Spheroidal
+Dwarf
+1 - 2.5 mly
+White
+Andromeda
+
+Andromeda VII
+Spheroidal
+Dwarf
+1 - 2.5 mly
+Blue
+Andromeda
+
+Cetus
+Spheroidal
+Dwarf
+1 - 2.5 mly
+Orange
+None
+
+Andromeda IX
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Orange
+Andromeda
+
+Andromeda I
+Spheroidal
+Dwarf
+2.5 - 5 mly
+White
+Andromeda
+
+LGS 3
+Irregular
+Dwarf
+2.5 - 5 mly
+Unknown
+Triangulum
+
+Andromeda V
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Unknown
+Andromeda
+
+Andromeda
+Barred Spiral
+Non-Dwarf
+2.5 - 5 mly
+Brown
+None
+
+Andromeda XI
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Unknown
+Andromeda
+
+Andromeda XII
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Unknown
+Andromeda
+
+Andromeda XIII
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Unknown
+Andromeda
+
+Andromeda VI
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Red
+Andromeda
+
+M32
+Elliptical
+Dwarf
+2.5 - 5 mly
+Orange
+Andromeda
+
+M110
+Elliptical
+Dwarf
+2.5 - 5 mly
+Yellow
+Andromeda
+
+IC 10
+Irregular
+Dwarf
+2.5 - 5 mly
+Yellow
+Andromeda
+
+Triangulum
+Spiral
+Non-Dwarf
+2.5 - 5 mly
+Red
+None
+
+Tucana
+Spheroidal
+Dwarf
+2.5 - 5 mly
+Orange
+None
+
+Pegasus
+Irregular
+Dwarf
+2.5 - 5 mly
+White
+Andromeda
+
+WLM
+Irregular
+Non-Dwarf
+2.5 - 5 mly
+Lavender
+None
+
+Aquarius
+Irregular
+Dwarf
+2.5 - 5 mly
+Rainbow
+None
+
+Sagittarius
+Irregular
+Dwarf
+2.5 - 5 mly
+Purple
+None
+
+NGC 3109
+Magellanic Spiral
+Non-Dwarf
+2.5 - 5 mly
+Unknown
+None
